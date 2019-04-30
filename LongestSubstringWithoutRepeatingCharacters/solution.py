@@ -15,8 +15,3 @@ class Solution:
                     # この時点で重複していれば、以降は全部重複しているので探索終了
                     break
         return max
-
-
-
-
-
